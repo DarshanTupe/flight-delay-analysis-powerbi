@@ -3,6 +3,9 @@
 ## Project Overview
 Interactive Power BI dashboard analyzing flight delays and cancellations across airlines and cities.
 
+## Project Dataset
+The dataset includes airline performance data with information on delays, cancellations, distance, and city-level trends.
+
 ## Dashboard Preview
 
 ### Page 1 - Overview
