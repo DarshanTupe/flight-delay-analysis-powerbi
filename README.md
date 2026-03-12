@@ -24,7 +24,7 @@ The dataset contains airline performance data including:
 ## Dashboard Preview
 
 ### Page 1 – Flight Performance Overview
-![Flight Performance Overview](Flight Performance Overview.png)
+![Flight Performance Overview](Flight-Performance-Overview.png)
 
 Key elements:
 - Total Flights
