@@ -24,7 +24,7 @@ The dataset contains airline performance data including:
 ## Dashboard Preview
 
 ### Page 1 – Flight Performance Overview
-![Dashboard Page 1](flight-delay-analysis-overview.png)
+![Flight Performance Overview](Flight Performance Overview.png)
 
 Key elements:
 - Total Flights
@@ -37,7 +37,7 @@ Key elements:
 ---
 
 ### Page 2 – Delay & Cancellation Analysis
-![Dashboard Page 2](flight-delay-dashboard-page2.png)
+![Delay & Cancellation Analysis](flight-delay-cancellation-analysis.png)
 
 Key elements:
 - Average Departure vs Arrival Delay by Airline
