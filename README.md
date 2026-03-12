@@ -26,7 +26,7 @@ The dataset contains airline performance information such as:
 
 ### Page 1 - Flight Performance Overview
 
-![Flight Performance Overview](flight-performance-overview.png)
+![Flight Performance Overview](Flight%20Performance%20Overview)
 
 This page shows an overview of overall flight performance including:
 
@@ -42,7 +42,7 @@ This page shows an overview of overall flight performance including:
 
 ### Page 2 - Delay & Cancellation Analysis
 
-![Delay & Cancellation Analysis](delay-cancellation-analysis.png)
+![Delay & Cancellation Analysis](Screenshot%202026-03-12%20203032.png)
 
 This page focuses more on airline and city level delay analysis:
 
