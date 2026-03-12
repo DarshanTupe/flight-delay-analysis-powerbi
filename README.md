@@ -1,13 +1,14 @@
 # Flight Delay & Cancellation Analysis - Power BI
 
 ## Project Overview
-This project presents an interactive **Power BI dashboard** analyzing flight delays and cancellations across airlines and cities.  
-The dashboard helps identify delay trends, airline performance, and city-level patterns in flight disruptions.
+This project is an interactive Power BI dashboard that analyzes flight delays and cancellations across airlines and cities.
+
+The dashboard helps understand delay patterns, airline performance, and which cities experience the most delays.
 
 ---
 
 ## Dataset
-The dataset contains airline performance data including:
+The dataset contains airline performance information such as:
 
 - Flight Date
 - Airline
@@ -23,23 +24,28 @@ The dataset contains airline performance data including:
 
 ## Dashboard Preview
 
-### Page 1 – Flight Performance Overview
-![Flight Performance Overview](Flight%20Performance%20Overview.png)
+### Page 1 - Flight Performance Overview
 
-Key elements:
+![Flight Performance Overview](flight-performance-overview.png)
+
+This page shows an overview of overall flight performance including:
+
 - Total Flights
 - Delayed Flights
 - Cancelled Flights
 - Average Arrival Delay
-- Monthly delay trends
-- Distance vs Arrival Delay analysis
+- Delay vs Distance analysis
+- Top cities by average arrival delay
+- Monthly delay trend
 
 ---
 
-### Page 2 – Delay & Cancellation Analysis
-![Delay & Cancellation Analysis](flight-delay-cancellation-analysis.png)
+### Page 2 - Delay & Cancellation Analysis
 
-Key elements:
+![Delay & Cancellation Analysis](delay-cancellation-analysis.png)
+
+This page focuses more on airline and city level delay analysis:
+
 - Average Departure vs Arrival Delay by Airline
 - Top Airlines by Cancelled Flights
 - Cities with Most Delayed Flights
@@ -55,14 +61,14 @@ Key elements:
 ---
 
 ## Key Insights
-- Chicago shows the highest number of delayed flights
-- Some airlines consistently experience higher average delays
-- Delay patterns vary significantly across months
-- Airline performance differs in both departure and arrival delays
+- Chicago has one of the highest numbers of delayed flights
+- Some airlines consistently show higher average delays
+- Delay patterns change across different months
+- Airlines differ in both departure and arrival delay performance
 
 ---
 
 ## How to Use
 1. Download the `.pbix` file from this repository  
-2. Open it in **Power BI Desktop**  
-3. Interact with the dashboard using filters and slicers
+2. Open it using Power BI Desktop  
+3. Use filters and slicers in the dashboard to explore the data
